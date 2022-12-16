@@ -16,3 +16,7 @@
 ## ID
 
 * [ramsey/uuid](https://github.com/ramsey/uuid) - A PHP library for generating universally unique identifiers (UUIDs). 
+
+## ENV
+
+* [koriym/Koriym.EnvJson](https://github.com/koriym/Koriym.EnvJson) - Set environment variables in JSON with schema 
